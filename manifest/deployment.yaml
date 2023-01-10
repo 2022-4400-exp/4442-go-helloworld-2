@@ -15,5 +15,5 @@ spec:
         app: go-helloworld-2
     spec:
       containers:
-      - image: dockerhubのユーザ名/go-helloworld-2
+      - image: m19153/go-helloworld-2
         name: go-helloworld-2

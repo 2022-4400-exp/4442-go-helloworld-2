@@ -15,7 +15,7 @@ spec:
         app: go-helloworld-2
     spec:
       containers:
-      - image: m19153/go-helloworld-2
+      - image: ghcr.io/2022-4400-exp/4442-go-helloworld-2:948c36a9da2e98b138dd2ec6e5e7d0f105535278@sha256:12ce8d7ed24b0a100a6d172479b50838ad78141926e783a0fa1a54c65b6bae7c
         name: go-helloworld-2
 ---
 apiVersion: v1
